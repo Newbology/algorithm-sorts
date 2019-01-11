@@ -20,3 +20,5 @@ let selectionSort = function(array) {
 
 selectionSort(unsorted);
 console.log('after', unsorted);
+
+
